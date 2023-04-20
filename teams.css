@@ -1,0 +1,60 @@
+#GT{
+    background: linear-gradient(to left, #001d5c , #0443cc)
+}
+.TeamsLogo{
+    height: 100px;
+    width: 100px;
+}
+.TeamDescription{
+    color: white;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#CSK{
+    background: linear-gradient(to left, #ffd505, #fffb05);
+}
+#MI{
+    background: linear-gradient(to left,#064fcc,#0680cc);
+}
+.players{
+    width: 500px;
+    height: 500px;
+    
+}
+.playerdescription{
+    color: white;
+    size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#sectiontitle{
+    color: white;
+    size: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.Headers{
+    color: white ;
+    size: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.navbar{
+    top: 0;
+    float: left;
+    width: 100%;
+    position: fixed;
+}
+ul{
+    list-style: none 
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+li{
+    position: fixed;
+    padding-right: 104px;
+    padding-left: 104px;
+}
