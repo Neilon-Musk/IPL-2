@@ -2,8 +2,8 @@
     background: linear-gradient(to left, #001d5c , #0443cc)
 }
 .TeamsLogo{
-    height: 100px;
-    width: 100px;
+    height: 75px;
+    width: 75px;
 }
 .TeamDescription{
     color: white;
@@ -16,6 +16,9 @@
 #MI{
     background: linear-gradient(to left,#064fcc,#0680cc);
 }
+#RR{
+    background: linear-gradient(to left,blue,pink) ;
+}
 .players{
     width: 500px;
     height: 500px;
@@ -26,12 +29,7 @@
     size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-#sectiontitle{
-    color: white;
-    size: 200px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
-}
 .Headers{
     color: white ;
     size: 200px;
